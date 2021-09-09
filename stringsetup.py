@@ -27,7 +27,7 @@ while True:
     except:
         print("")
         print(
-            "Wrong phone number \n make sure its with correct country code. Example : +918945136789! Kindly Retry"
+            "Wrong phone number \n make sure its with correct country code. Example : +914352764556! Kindly Retry"
         )
         print("")
         continue
