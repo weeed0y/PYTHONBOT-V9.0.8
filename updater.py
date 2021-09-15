@@ -42,7 +42,7 @@ async def update_requirements(main , test):
     try:
         for i in a:
             await runcmd(f"pip install {i}")
-            print(f"🐍Python𝕭øt V9.O.8🐍 {i}")
+            print(f"⚡𝕷êgëñd𝕭øt V2.O⚡ {i}")
     except Exception as e:
         print(f"Error while installing requirments {str(e)}")
 
@@ -50,4 +50,4 @@ async def update_requirements(main , test):
 loop = asyncio.get_event_loop()
 loop.run_until_complete(update_requirements(sys.argv[1] , sys.argv[2]))
 loop.close()
-
+© 2021 GitHub, Inc.
