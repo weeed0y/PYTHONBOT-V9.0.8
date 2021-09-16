@@ -2,7 +2,7 @@
 # PYTHONBOT![Screenshot (147)](https://user-images.githubusercontent.com/87700009/131514124-3c286d08-2655-48b8-9243-f6aa5fb2da33.png)
 
 ✞︎tß Lêɠêɳ̃dẞø†
-LEGENDBOT
+PYTHONBOT
 
     
 
@@ -63,16 +63,6 @@ Contact Me
 
 
 ![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
-
-
-
 ![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
-
-
-
 ![image](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
-
 ![image](https://user-images.githubusercontent.com/87700009/133560910-6117ba9e-9165-4fd1-8fb2-4d1ecca3c20e.png)
-
-
-
