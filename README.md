@@ -23,6 +23,10 @@ Status Of Bot
 ∂єρℓογ το нєяοκυ
 Deploy
 
+![image](https://user-images.githubusercontent.com/87700009/133559778-67ddced2-5e95-42df-855b-25037237c7a5.png)
+
+
+
 Deploy
 
 ![image](https://user-images.githubusercontent.com/87700009/133559713-a23363e5-f068-4146-8f06-6b20dad97793.png)
