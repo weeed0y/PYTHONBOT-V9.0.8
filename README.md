@@ -18,7 +18,8 @@ Status Of Bot
 
 
 
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT
+![image](https://user-images.githubusercontent.com/87700009/133559569-7916552c-7481-44ee-8f28-b57f88e5df4e.png)
+
 ∂єρℓογ το нєяοκυ
 Deploy
 
