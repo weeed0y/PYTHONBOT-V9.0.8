@@ -29,13 +29,13 @@ _set_bot () {
     echo "  Downloading pythonBot V9.O.8 Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    PYTHONPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  pythonBot V9.O.8 Cleaning.."
     rm -rf "$zippath"
     sleep 5
-    cd $LEGENDPATH
+    cd $PYTHONPATH
     echo "    🐍ѕταяτιиg ѕмοοτнєѕτ Python𝕭ø𝖙 V9.O.8🐍     "
     echo "
     PYTHONBOT
