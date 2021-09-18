@@ -42,7 +42,7 @@ async def update_requirements(main , test):
     try:
         for i in a:
             await runcmd(f"pip install {i}")
-            print(f"⚡𝕷êgëñd𝕭øt V2.O⚡ {i}")
+            print(f"🐍PYTHON𝕭øt V9.O.8🐍 {i}")
     except Exception as e:
         print(f"Error while installing requirments {str(e)}")
 
