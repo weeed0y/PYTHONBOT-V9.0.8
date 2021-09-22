@@ -33,3 +33,6 @@ with TelegramClient(StringSession(), APP_ID, API_HASH) as LEGENDBOT:
     omk =LEGENDBOT.send_message("me", f"`{LEGENDBOT.session.save()}`")
     omk.reply("The above is the `LEGEND_STRING` #POWERFUL [LEGENDBOT](https://t.me/Legend_Userbot)"
 		)
+
+	
+	
