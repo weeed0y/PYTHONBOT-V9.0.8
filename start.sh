@@ -2,7 +2,7 @@
 echo """
 
 Legendary PYTHONDBOT
-@Legend_Userbot
+@PYTHON_Userbot
 """
 python3 string_session.py
 
