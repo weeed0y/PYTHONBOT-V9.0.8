@@ -35,3 +35,5 @@ with TelegramClient(StringSession(), APP_ID, API_HASH) as LEGENDBOT:
 		)
 
 	
+
+	
