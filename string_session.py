@@ -4,7 +4,7 @@ os.system('pip install --upgrade pip')
 os.system('pip install telethon==1.18.2')
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
-LEGENDBOT = """
+PYTHONBOT = """
 
 ╭━━━┳╮╱╱╭┳━━━━┳╮╱╭┳━━━┳━╮╱╭╮
 ┃╭━╮┃╰╮╭╯┃╭╮╭╮┃┃╱┃┃╭━╮┃┃╰╮┃┃
