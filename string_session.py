@@ -18,7 +18,7 @@ PYTHONBOT = """
 ┃╭━╮┃┃╱┃┃╱┃┃
 ┃╰━╯┃╰━╯┃╱┃┃
 ╰━━━┻━━━╯╱╰╯"""
-print("""String Generator. ==> LEGENDBot. Get Your Api Id & Api Hash From my.telegram.org and fill accordingly.
+print("""String Generator. ==> PYTHONBot. Get Your Api Id & Api Hash From my.telegram.org and fill accordingly.
 
 ╭━━━┳╮╱╱╭┳━━━━┳╮╱╭┳━━━┳━╮╱╭╮
 ┃╭━╮┃╰╮╭╯┃╭╮╭╮┃┃╱┃┃╭━╮┃┃╰╮┃┃
