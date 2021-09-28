@@ -2,7 +2,7 @@
 {
   "name": "Îtß Pythonẞø† 🇮🇳",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ ℓєgєи∂-ℓx. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/cfc1ba8da5fd7ab02fa7d.jpg",
+  "logo": "https://telegra.ph/file/3ac4a8a7abd47ccb306c7.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
+  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
+  "success_url": "https://t.me/Python_Userbot_Support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -25,12 +25,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND-LX User",
-      "value": "✞︎tß Lêɠêɳ̃d 🇮🇳",
+      "value": "✞︎tß Lêɠêɳ̃d-Lx 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "Pythonẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
       "required": false
     },
     "ABUSE": {
