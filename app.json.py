@@ -1,6 +1,6 @@
 
 {
-  "name": "Îtß Lêɠêɳ̃dẞø† 🇮🇳",
+  "name": "Îtß Pythonẞø† 🇮🇳",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ ℓєgєи∂-ℓx. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/cfc1ba8da5fd7ab02fa7d.jpg",
     "keywords": [
