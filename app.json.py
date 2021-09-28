@@ -40,7 +40,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@Python_Userbot_Support",
       "required": false
     },
     "YOUR_CHANNEL": {
