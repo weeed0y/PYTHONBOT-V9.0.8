@@ -58,6 +58,11 @@
       "value": "https://telegra.ph/file/3ac4a8a7abd47ccb306c7.jpg",
       "required": true
     },
+   "OP_PIC": {
+      "description": "Put here any telegraph media link for OP pic in .python command.",
+      "value": "https://telegra.ph/file/946f21dd72cdbe632feee.jpg",
+      "required": true
+    }, 
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
       "value": "https://telegra.ph/file/3ac4a8a7abd47ccb306c7.jpg",
