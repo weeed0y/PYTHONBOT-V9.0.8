@@ -21,11 +21,11 @@ PYTHONBOT
 
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
-[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT)
+
 
 String
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
 
 
 To Get Details Of StringSession Follow Step:
