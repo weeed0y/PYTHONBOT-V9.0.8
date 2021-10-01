@@ -26,6 +26,17 @@ _________________String_Session__________________________
 [![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
 
 
+___________Setup_Pythonbot_String_Session_______
+
+- Click On Generate String
+- Then Click On Green Run Button.
+- Wait for a while then fill the details.
+- String will be saved in your Saved Message.
+TO HOST PYTHON LOCALLY OR ON ANY OTHER VPS CLICK BELOW
+⚡ Python𝕭øt ⚡
+Do U Face Any Problem Contact me Through Telegram
+
+
 To Get Details Of StringSession Follow Step:
 - Go To Telegram And Search @UseTGXBot
 - Click Start
@@ -37,17 +48,6 @@ To Get Details Of StringSession Follow Step:
 - Now Run StringSession Given Below:
 StringSession
 String
-
-- Click On Generate String
-- Then Click On Green Run Button.
-- Wait for a while then fill the details.
-- String will be saved in your Saved Message.
-TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW
-⚡ 𝕷êgèñd𝕭øt ⚡
-Do U Face Any Problem Contact me Through Telegram
-
-
-
 
 Contact Me
 
