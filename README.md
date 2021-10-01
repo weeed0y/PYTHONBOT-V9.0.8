@@ -21,7 +21,7 @@ PYTHONBOT
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT.py.pkg.git)
 
-String
+_________________String_Session__________________________
 
 [![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
 
