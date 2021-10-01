@@ -20,11 +20,12 @@ _________________String_Session__________________________
 [![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
 
 
-Setup_Pythonbot_String_Session_______
-    - Click On Generate String
-     - Then Click On Green Run Button.
-   - Wait for a while then fill the details.
-     - String will be saved in your Saved Message.
+Setup_Pythonbot_String_Session___
+
+- Click On Generate String
+- Then Click On Green Run Button.
+- Wait for a while then fill the details.
+ - String will be saved in your Saved Message.
 TO HOST PYTHON LOCALLY OR ON ANY OTHER VPS CLICK BELOW
 
 ⚡ Python𝕭øt ⚡
