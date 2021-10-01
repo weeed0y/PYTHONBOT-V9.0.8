@@ -1,8 +1,4 @@
-![photo_2021-09-26_09-42-41](https://user-images.githubusercontent.com/87700009/134816455-cf632fb8-cd98-47c0-bce9-33631ba6b0af.jpg)
-![photo_2021-09-26_09-42-22](https://user-images.githubusercontent.com/87700009/134816458-872748f4-4989-49b1-b0d6-490253e2d83a.jpg)
-![photo_2021-09-26_09-42-29](https://user-images.githubusercontent.com/87700009/134816459-27f9dfd0-5f12-4e6c-9229-64f548560073.jpg)
-![photo_2021-09-26_09-42-34](https://user-images.githubusercontent.com/87700009/134816460-32570a68-2405-4306-b57c-20209f9aae76.jpg)
-![photo_2021-09-26_09-40-09](https://user-images.githubusercontent.com/87700009/134816385-eaf15efe-8898-4374-b00c-c936a4220307.jpg)
+
 # PYTHONBOT-V9.0.8
 # PYTHONBOT![Screenshot (147)](https://user-images.githubusercontent.com/87700009/131514124-3c286d08-2655-48b8-9243-f6aa5fb2da33.png)
 
