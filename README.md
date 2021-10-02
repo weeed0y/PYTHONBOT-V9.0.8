@@ -1,5 +1,3 @@
-![photo_2021-09-26_09-42-29](https://user-images.githubusercontent.com/87700009/135651856-60e60999-07a3-474a-bfdd-d3bb3a5025a1.jpg)
-![photo_2021-09-26_09-42-41](https://user-images.githubusercontent.com/87700009/135651795-9c4fef02-78fd-4931-a8dd-ff0c4b734b4c.jpg)
 
 # PYTHONBOT-V9.0.8
 
