@@ -4,7 +4,7 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $PYTHON_REPO == "PYTHONBOTBOT" ]]
+    if [[ $PYTHON_REPO == "PYTHONBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $PYTHON_REPO == "PYTHONBOT" ]]
