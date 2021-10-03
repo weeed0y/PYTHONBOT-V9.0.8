@@ -212,7 +212,7 @@
   },{
      "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
-    "url":"https://devcenter.heroku.com/articles/buildpacks#detection-failure"
+    "url":"https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
   },{
     "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/python.tgz"
   },{
