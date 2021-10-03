@@ -2,9 +2,6 @@
 echo """
 
 Legendary PYTHONDBOT
-@PYTHON_Userbot
+@Python_Userbot_Support
 """
 python3 string_session.py
-
-
-
