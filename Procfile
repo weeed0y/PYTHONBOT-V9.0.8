@@ -1,1 +1,1 @@
-worker: bash PYTHONBOT
+worker: bash PYTHONBOT-V9.0.8
