@@ -8,7 +8,8 @@
 
 ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ Pythonẞø✞︎⚡
 𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝖀sєяϐοτ 𝕭αѕє∂ 𝕺и 𝕿𝖊ℓєτнοи 𝕷ιϐяαяγ.
-![Screenshot (147)](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8)
+![Screenshot (147)](https://user-images.githubusercontent.com/87700009/135849722-68d16ef6-39a7-4375-bf9f-a18fc3f95ed4.png)
+
 
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
