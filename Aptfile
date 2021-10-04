@@ -2,3 +2,6 @@ pv
 tree
 mediainfo
 p7zip-full
+# Test comment
+s3cmd
+wget
