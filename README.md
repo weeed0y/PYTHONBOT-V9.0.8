@@ -19,6 +19,7 @@ _________________String_Session__________________________
 
 [![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
 
+![photo_2021-10-03_02-54-21](https://user-images.githubusercontent.com/87700009/135850514-38db01cc-e4f1-4070-9cf8-3fa0b93f6c05.jpg)
 
 Setup_Pythonbot_String_Session___
 
