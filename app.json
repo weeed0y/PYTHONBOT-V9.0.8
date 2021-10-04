@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
+  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
@@ -131,7 +131,7 @@
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
        "value": ""
     }, 
-    "LEGEND_STRING": {
+    "PYTHON_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
     },
@@ -201,12 +201,21 @@
         "version": "12"
       }
     }
-  {
+  ],
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
-    },
-    {
-      "url": "heroku/ruby"
-    }
-  ]
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },{
+    "url":"https://github.com/amivin/aria2-heroku.git"
+  },{
+    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
+  },{
+     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+  },{
+    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
+  },{
+    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+  },{
+    "url": "heroku/python"
+  }]
+}
