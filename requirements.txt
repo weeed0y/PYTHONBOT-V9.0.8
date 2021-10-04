@@ -16,6 +16,7 @@ cfscrape
 chromedriver_autoinstaller
 cowpy
 cryptg
+covid
 colorama>=0.4.3
 dnspython
 emoji==0.6.0
