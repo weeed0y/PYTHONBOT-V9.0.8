@@ -92,6 +92,11 @@
       "value": "",
       "required": true
     },
+    "LEGEND_STRING": {
+      "description": "String Session",
+      "value": "",
+      "required": true
+    },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
       "value": ""
