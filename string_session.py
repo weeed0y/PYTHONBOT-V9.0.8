@@ -1,25 +1,12 @@
 import os
 
-os.system('pip install --upgrade pip')
-os.system('pip install telethon==1.18.2')
+
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
 PYTHONBOT = """
-
-╭━━━┳╮╱╱╭┳━━━━┳╮╱╭┳━━━┳━╮╱╭╮
-┃╭━╮┃╰╮╭╯┃╭╮╭╮┃┃╱┃┃╭━╮┃┃╰╮┃┃
-┃╰━╯┣╮╰╯╭┻╯┃┃╰┫╰━╯┃┃╱┃┃╭╮╰╯┃
-┃╭━━╯╰╮╭╯╱╱┃┃╱┃╭━╮┃┃╱┃┃┃╰╮┃┃
-┃┃╱╱╱╱┃┃╱╱╱┃┃╱┃┃╱┃┃╰━╯┃┃╱┃┃┃
-╰╯╱╱╱╱╰╯╱╱╱╰╯╱╰╯╱╰┻━━━┻╯╱╰━╯
-╭━━╮╭━━━┳━━━━╮
-┃╭╮┃┃╭━╮┃╭╮╭╮┃
-┃╰╯╰┫┃╱┃┣╯┃┃╰╯
-┃╭━╮┃┃╱┃┃╱┃┃
-┃╰━╯┃╰━╯┃╱┃┃
-╰━━━┻━━━╯╱╰╯"""
+"""
+print(PYTHONBOT)
 print("""String Generator. ==> PYTHONBot. Get Your Api Id & Api Hash From my.telegram.org and fill accordingly.
-
 ╭━━━┳╮╱╱╭┳━━━━┳╮╱╭┳━━━┳━╮╱╭╮
 ┃╭━╮┃╰╮╭╯┃╭╮╭╮┃┃╱┃┃╭━╮┃┃╰╮┃┃
 ┃╰━╯┣╮╰╯╭┻╯┃┃╰┫╰━╯┃┃╱┃┃╭╮╰╯┃
@@ -43,11 +30,5 @@ with TelegramClient(StringSession(), APP_ID, API_HASH) as PYTHONBOT:
     print("")
     print("You can Get Your String Session In Saved Message of Your Telegram Account. Remember To Make New String Session Whenever You Terminate Sessions.")
     omk =PYTHONBOT.send_message("me", f"`{PYTHONBOT.session.save()}`")
-    omk.reply("The above is the `PYTHON_STRING` #POWERFUL [PYTHONBOT](https://t.me/Python_Userbot_Support)
+    omk.reply("The above is the `PYTHON_STRING` #POWERFUL [PYTHONBOT](https://t.me/Python_Userbot_Support)"
 		)
-
-	
-
-	
-	
-
