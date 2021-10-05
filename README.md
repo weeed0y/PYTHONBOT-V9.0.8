@@ -10,8 +10,8 @@
 
 
 ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ Pythonẞø✞︎⚡
-𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝖀sєяϐοτ 𝕭αѕє∂ 𝕺и 𝕿𝖊ℓєτнοи 𝕷ιϐяαяγ.
-
+ALL CREDITS GOES TO LEGENDBOY. 
+USERNAME = LEGEND-OS
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8)
@@ -19,9 +19,6 @@
 _________________String_Session__________________________
 
 [![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
-
-![photo_2021-10-03_02-54-21](https://user-images.githubusercontent.com/87700009/135850514-38db01cc-e4f1-4070-9cf8-3fa0b93f6c05.jpg)
-
 
 Python_Session__________________________________________
 - Click On Generate String
@@ -33,7 +30,6 @@ TO HOST PYTHON LOCALLY OR ON ANY OTHER VPS CLICK BELOW
 ⚡ Python𝕭øt ⚡
 
 Do U Face Any Problem Contact me Through Telegram
-
 
 To Get Details Of StringSession Follow Step:
 - Go To Telegram And Search @UseTGXBot
