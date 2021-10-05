@@ -21,8 +21,8 @@ _________________String_Session__________________________
 
 ![photo_2021-10-03_02-54-21](https://user-images.githubusercontent.com/87700009/135850514-38db01cc-e4f1-4070-9cf8-3fa0b93f6c05.jpg)
 
-Setup_Pythonbot_String_Session___
 
+Python_Session__________________________________________
 - Click On Generate String
 - Then Click On Green Run Button.
 - Wait for a while then fill the details.
