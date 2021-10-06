@@ -19,6 +19,7 @@ USERNAME = LEGEND-OS
 _________________String_Session__________________________
 
 [![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
 
 Python_Session__________________________________________
 - Click On Generate String
