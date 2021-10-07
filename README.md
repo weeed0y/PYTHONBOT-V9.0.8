@@ -10,7 +10,7 @@
 
 
 ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ Pythonẞø✞︎⚡
-ALL CREDITS GOES TO LEGENDBOY. 
+ CREDITS GOES TO LEGENDBOY. 
 USERNAME = LEGEND-OS
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
