@@ -76,7 +76,12 @@
       "description": "put here any telegraph media link for custom pmpermit pic.",
       "value": "https://telegra.ph/file/281dc92f18508c52489b6.jpg",
       "required": true
-    },
+      
+    },},
+    "PM_PIC": {
+      "description": "put here any telegraph media link for custom pmpermit pic.",
+      "value": "https://telegra.ph/file/281dc92f18508c52489b6.jpg",
+      "required": true
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
       "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ Pythonẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
