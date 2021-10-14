@@ -4,7 +4,7 @@
 
 # PYTHONBOT-V9.0.8
 
-https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHON_SUPPORT_ZONE
+https://heroku.com/deploy?template=
 
 ✞︎tß Pythonẞø†
 
