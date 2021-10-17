@@ -24,7 +24,7 @@ Made With Love By Team PYTHONBOT
 """
                                                                                                             
 print("")
-print(Style.BRIGHT + Fore.MAGENTA + legend)
+print(Style.BRIGHT + Fore.MAGENTA + python)
 print(Style.RESET_ALL)
 print(Style.BRIGHT + Fore.BLUE + logo)
 print(Style.RESET_ALL)
@@ -53,7 +53,7 @@ while True:
     except:
         print("")
         print(
-            "Wrong phone number \n make sure its with correct country code. Example : +919811099999 ! Kindly Retry"
+            "Wrong phone number \n make sure its with correct country code. Example : +919811056748 ! Kindly Retry"
         )
         print("")
         continue
