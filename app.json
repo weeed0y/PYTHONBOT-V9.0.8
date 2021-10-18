@@ -141,7 +141,7 @@
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
        "value": ""
     }, 
-    "PYTHON_STRING": {
+    "LEGEND_STRING": {
       "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4.py ",
       "value": ""
     },
