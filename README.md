@@ -17,7 +17,9 @@ USERNAME = LEGEND-OS-LX
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8)
 
-_________________String_Session__________________________
+__![image](https://user-images.githubusercontent.com/87700009/138108919-983b14f0-032e-484e-bc76-8e5de7e9337d.png)
+
+_______________String_Session__________________________
 
 [![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
