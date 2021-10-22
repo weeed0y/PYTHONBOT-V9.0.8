@@ -142,7 +142,7 @@
        "value": ""
     }, 
     "PYTHON_STRING": {
-      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4.py ",
+      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py",
       "value": ""
     },
     "HEROKU_API_KEY": {
