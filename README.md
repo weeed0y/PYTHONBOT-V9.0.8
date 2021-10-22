@@ -8,7 +8,7 @@
 ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ Pythonẞø✞︎⚡
 
 ITS ALL CREDITS GOES TO LEGENDBOY. 
-USERNAME = LEGEND-OS
+USERNAME = print("LEGEND-OS")("github.com/LEGEND-OS")
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8)
