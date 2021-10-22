@@ -1,5 +1,5 @@
 
-{DEVELOPER}By = [LEGEND-LX](t.me/Legendl_Mr_Hacker)
+{DEVELOPER}By = [LEGEND-LX](http://t.me/Legendl_Mr_Hacker)
 
 ![photo_2021-10-03_07-40-19](https://user-images.githubusercontent.com/87700009/138109473-9eacaa47-f0cc-4ddc-89f5-1b314eb21437.jpg)
 
