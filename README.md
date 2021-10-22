@@ -45,7 +45,7 @@ String
 
 Contact Me
 
-• LICENSE •
+• LICENSE •[license](https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/blob/master/LICENSE)
 • 💡 CREDITS 💞 •
 [LEGEND-OS](https://github.com/LEGEND-OS)
 ![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
