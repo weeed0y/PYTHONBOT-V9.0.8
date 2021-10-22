@@ -47,8 +47,7 @@ Contact Me
 
 • LICENSE •
 • 💡 CREDITS 💞 •
-#https://Github.com/LEGEND-OS/LEGENDBOT
-
+[LEGEND-OS](https://github.com/LEGEND-OS)
 ![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
