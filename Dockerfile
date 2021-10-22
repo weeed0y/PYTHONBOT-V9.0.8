@@ -1,4 +1,4 @@
-from Team Legend/LEGENDBOT:latest
+FROM Team Legend/LEGENDBOT:latest
 
 RUN git clone https://github.com/LEGEND-LX/PYTHONUSERBOT.git /root/userbot
 
