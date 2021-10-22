@@ -1,19 +1,13 @@
+ITS ALL CREDITS GOES TO LEGENDBOY. 
+USERNAME = LEGEND-OS
 ![photo_2021-10-03_07-40-19](https://user-images.githubusercontent.com/87700009/138109473-9eacaa47-f0cc-4ddc-89f5-1b314eb21437.jpg)
 
 ![photo_2021-10-03_02-53-22](https://user-images.githubusercontent.com/87700009/135961108-f7cf58d5-04b8-4a72-9652-a025665ea914.jpg)![photo_2021-10-03_07-40-01 (2)](https://user-images.githubusercontent.com/87700009/135961047-0c69a013-72e8-454b-bc02-119f54366fb6.jpg)![photo_2021-10-03_07-40-07](https://user-images.githubusercontent.com/87700009/135961201-31db4c33-cc39-49c0-8001-53a50621f3f6.jpg)![photo_2021-10-02_00-30-05](https://user-images.githubusercontent.com/87700009/137576332-5c97121c-2757-4555-ac3b-6dbcc8bde1d2.jpg)
 
-
-
-# PYTHONBOT-V9.0.8
-
-
-
 ✞︎tß Pythonẞø†
 
-
 ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ Pythonẞø✞︎⚡
- CREDITS GOES TO LEGENDBOY. 
-USERNAME = LEGEND-OS-LX
+
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8)
@@ -52,7 +46,7 @@ Contact Me
 
 • LICENSE •
 • 💡 CREDITS 💞 •
-
+#https://Github.com/LEGEND-OS/LEGENDBOT
 
 ![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
