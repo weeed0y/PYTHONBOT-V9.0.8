@@ -12,7 +12,7 @@ USERNAME = LEGEND-OS
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8)
-
+__________COMING_SOON_______
 __![image](https://user-images.githubusercontent.com/87700009/138108919-983b14f0-032e-484e-bc76-8e5de7e9337d.png)
 
 _______________String_Session__________________________
