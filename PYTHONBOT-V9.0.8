@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $PYTHON_REPO == "PYTHONBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QWVRIT05VU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     elif [[ $PYTHON_REPO == "PYTHONBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QWVRIT05VU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     elif [[ $PYTHON_REPO =~ $regex ]]
     then
         if [[ $PYTHON_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${PYTHON_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QWVRIT05VU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     fi
 }
 
@@ -33,7 +33,7 @@ _set_bot () {
     PYTHONPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  PythonBot V9.0.8 Cleaning.."
+    echo " Started PythonBot V9.0.8 Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $PYTHONPATH
