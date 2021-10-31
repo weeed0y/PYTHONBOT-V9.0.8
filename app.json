@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
+      "description": "Set Custom Alive Message When entering .pyalive Or .python  Command.",
       "value": "Pythonẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
       "required": false
     },
@@ -44,7 +44,7 @@
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Its_LegendBot",
+      "value": "@Python_Updata",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -67,14 +67,14 @@
       "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
       "required": true
     },
-    "OP_PIC": {
-      "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/19734dd5f44e1de460a8c.jpg",
+    "PYTHON_PIC": {
+      "description": "Put here any telegraph media link for PYTHON pic in .python command.",
+      "value": "https://telegra.ph/file/8127c6cde13a1efceb99f.jpg",
       "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .python command.",
-      "value": "https://telegra.ph/file/c84467e9ef71c0c2d65cf.jpg",
+      "value": "https://telegra.ph/file/8127c6cde13a1efceb99f.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -84,7 +84,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/84d39fcb13e617232abb9.jpg",
+      "value": "https://telegra.ph/file/8127c6cde13a1efceb99f.jpg",
       "required": true
     },
     "PM_MSG": {
