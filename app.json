@@ -1,7 +1,7 @@
 {
   "name": "I N PYTHONBOT-LINUX",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/7757198e270077897e8ed.jpg",
+  "logo": "https://telegra.ph/file/db5029c3dcc65888ae9ef.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -23,19 +23,14 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Python_Op 🇮🇳",
+      "description": "Fill your Full name. By default it is LEGEND-LX User",
+      "value": "Python_Op",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .pyalive Or .python  Command.",
       "value": "Pythonẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
       "required": false
-    },
-    "ABUSE": {
-      "description": "ON or OFF",
-      "value": "ON",
-      "required" :false
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
@@ -46,11 +41,6 @@
       "description": "Set Ur Group Username",
       "value": "@Python_Updata",
       "required": false
-    },
-    "BOY_OR_GIRL": {
-      "description": "Set If U are Boy Or Girl",
-      "value": "Boy",
-      "required": true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON OR OFF",
