@@ -1,9 +1,6 @@
 
 {DEVELOPER}By = [LEGEND-LX](http://t.me/Legendl_Mr_Hacker)
 
-![photo_2021-10-03_07-40-19](https://user-images.githubusercontent.com/87700009/138109473-9eacaa47-f0cc-4ddc-89f5-1b314eb21437.jpg)
-
-![photo_2021-10-03_02-53-22](https://user-images.githubusercontent.com/87700009/135961108-f7cf58d5-04b8-4a72-9652-a025665ea914.jpg)![photo_2021-10-03_07-40-01 (2)](https://user-images.githubusercontent.com/87700009/135961047-0c69a013-72e8-454b-bc02-119f54366fb6.jpg)![photo_2021-10-03_07-40-07](https://user-images.githubusercontent.com/87700009/135961201-31db4c33-cc39-49c0-8001-53a50621f3f6.jpg)![photo_2021-10-02_00-30-05](https://user-images.githubusercontent.com/87700009/137576332-5c97121c-2757-4555-ac3b-6dbcc8bde1d2.jpg)
 
 ✞︎tß Pythonẞø†
 
