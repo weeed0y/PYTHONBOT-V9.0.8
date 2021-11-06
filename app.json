@@ -24,11 +24,11 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND-LX User",
-      "value": "Python_Op",
+      "value": "LEGEND-LX",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .pyalive Or .python  Command.",
+      "description": "Set Custom Alive Message When entering .pyalive Or .op  Command.",
       "value": "Pythonẞø† 𝐈𝐬 Online-Lx",
       "required": false
     },
@@ -53,17 +53,17 @@
       "required": true
     },
     "AWAKE_PIC": {
-      "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
+      "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
       "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
       "required": true
     },
     "PYTHON_PIC": {
-      "description": "Put here any telegraph media link for PYTHON pic in .python command.",
+      "description": "Put here any telegraph media link for PYTHON pic in .op command.",
       "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
       "required": true
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .alive Or .python command.",
+      "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
       "value": "https://telegra.ph/file/7949b91419c14f3b91bc3.jpg",
       "required": false
     },
