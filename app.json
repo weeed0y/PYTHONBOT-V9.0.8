@@ -29,7 +29,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .pyalive Or .python  Command.",
-      "value": "Pythonẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "Pythonẞø† 𝐈𝐬 Online-Lx",
       "required": false
     },
     "YOUR_GROUP": {
@@ -49,7 +49,7 @@
     },
     "ASSISTANT": {
       "description": "Set ON OR OFF",
-      "value": "OFF",
+      "value": "ON",
       "required": true
     },
     "AWAKE_PIC": {
