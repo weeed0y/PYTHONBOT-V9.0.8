@@ -13,7 +13,8 @@ USERNAME = ⚜[LEGEND-OS](https://github.com/LEGEND-OS)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8)
 __________COMING_SOON_______
-__![image](https://user-images.githubusercontent.com/87700009/138108919-983b14f0-032e-484e-bc76-8e5de7e9337d.png)
+<p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+
 
 _______________String_Session__________________________
 
