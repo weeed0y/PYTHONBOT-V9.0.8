@@ -1,4 +1,4 @@
-FROM LEGEND-LX/PYTHONBOT-V9.0.8:latest
+FROM https://github.com/LEGEND-LX/PYTHONUSERBOT:latest
 
 #clonning repo 
 RUN git clone https://github.com/LEGEND-LX/PYTHONUSERBOT.git /root/userbot
