@@ -175,12 +175,12 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜",
+      "value": "𓆩༒",
       "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💫",
+      "value": "༒𓆪",
       "required": false
     },
     "ALIVE_EMOJI": {
