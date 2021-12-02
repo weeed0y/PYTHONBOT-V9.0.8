@@ -3,6 +3,7 @@
 
 {DEVELOPER}By = [LEGEND-LX](http://t.me/Legendl_Mr_Hacker)
 
+MODE_BY = PRAWASH MALVIYA
 
 ✞︎tß Pythonẞø†
 
