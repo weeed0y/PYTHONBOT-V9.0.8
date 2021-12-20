@@ -217,6 +217,13 @@
     "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
   },{
     "url": "heroku/python"
-  }]
+  }],
+"formation": {
+        "fusion": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
 }
+
 
