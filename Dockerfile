@@ -1,4 +1,4 @@
-FROM LEGEND-LX/PYTHONUSERBOT:latest
+FROM LEGEND-LX/PYTHONBOT-V9.0.8:slim-buster
 #clonning repo 
 RUN git clone https://github.com/LEGEND-LX/PYTHONUSERBOT.git /root/userbot
 #working directory 
