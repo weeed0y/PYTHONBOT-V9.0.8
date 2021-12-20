@@ -218,13 +218,5 @@
   },{
     "url": "heroku/python"
   }]
-},
-}
-"formation": {
-        "PYTHONBOT-V9.0.8": {
-            "quantity": 1,
-            "size": "free"
-        }
-    }
 }
 
