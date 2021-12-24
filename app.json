@@ -1,5 +1,5 @@
 {
-  "name": "🔥Python_Userbot🔥",
+  "name": "Ultra-X-PythonBot",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/db5029c3dcc65888ae9ef.jpg",
     "keywords": [
@@ -175,12 +175,12 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "𓆩༒",
+      "value": "⚜",
       "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "༒𓆪",
+      "value": "💫",
       "required": false
     },
     "ALIVE_EMOJI": {
@@ -217,13 +217,5 @@
     "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
   },{
     "url": "heroku/python"
-  }],
-"formation": {
-        "fusion": {
-            "quantity": 1,
-            "size": "free"
-        }
-    }
+  }]
 }
-
-

@@ -1,10 +1,7 @@
-![photo_2021-10-31_22-23-45 - Copy](https://user-images.githubusercontent.com/87700009/144459912-335a935c-b692-4b70-8bda-6c3235f3ca7c.jpg)
-
 ![photo_2021-11-06_01-38-31](https://user-images.githubusercontent.com/87700009/140607545-b8576cd7-7e43-4f74-bf7c-fefae124c749.jpg)
 
 {DEVELOPER}By = [LEGEND-LX](http://t.me/Legendl_Mr_Hacker)
 
-______MODE_BY = PRAWASH MALVIYA
 
 ✞︎tß Pythonẞø†
 
