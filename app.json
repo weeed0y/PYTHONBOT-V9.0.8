@@ -23,8 +23,8 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-LX User",
-      "value": "LEGEND-LX",
+      "description": "Fill your Full name. By default it is Weedb0y0 User",
+      "value": "Weedb0y0",
       "required": false
     },
     "ALIVE_MSG": {
@@ -39,7 +39,7 @@
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Updata",
+      "valuANYTHINweedb0y0",
       "required": false
     },
     "EXTRA_PLUGIN": {
@@ -132,7 +132,7 @@
        "value": ""
     }, 
     "PYTHON_STRING": {
-      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py ",
+      "description": "Get this value by running https://replit.com/@Weedb0y0/PYTHONBOT-4#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -204,7 +204,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/Weedb0y0/heroku-buildpack-ffmpeg-latest"
   },{
     "url":"https://github.com/amivin/aria2-heroku.git"
   },{
